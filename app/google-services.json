@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897033190381",
+    "firebase_url": "https://sapcertificate-da96e.firebaseio.com",
+    "project_id": "sapcertificate-da96e",
+    "storage_bucket": "sapcertificate-da96e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897033190381:android:fe872e119093555d3545e4",
+        "android_client_info": {
+          "package_name": "com.karaca.sapcertificate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897033190381-nr99r1ucbsdj7rba39cpsasi851d7gt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karaca.sapcertificate",
+            "certificate_hash": "ddfcd95d03ce5063358ac9fa754d833635da4e0c"
+          }
+        },
+        {
+          "client_id": "897033190381-lm4csn9cchgfu5s80bo0oelbe68gite4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLcWILXU8Ub1IMml-FpJ_FDCC4YR-4BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897033190381-lm4csn9cchgfu5s80bo0oelbe68gite4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

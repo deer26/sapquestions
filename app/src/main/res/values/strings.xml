@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SAP CERTIFICATIONS</string>
+    <string name="soru1">
+        In an ABAP program, you to assign an initial \nvalue to an elementary data object when you define it.\nWhich addition must you use? Please choose the correct answer.
+    </string>
+    <string name="sor1cevap1">
+        OBLIGATORY
+    </string>
+    <string name="sor1cevap2">
+        DEFAULT
+    </string>
+    <string name="sor1cevap3">
+        READ­ONLY
+    </string>
+    <string name="sor1cevap4">
+        VALUE
+    </string>
+    <string name="spinner_title">Select Category:</string>
+    <string name="question">Selam naber nasılsın hayat nasıl gidiyor.Selam naber nasılsın hayat nasıl gidiyor.</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="option5">Option5</string>
+    <string name="option6">Option6</string>
+    <string name="confirm">Confirm</string>
+    <string name="dificulty">Exam:</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="score_0">Score: 0</string>
+    <string name="program_head">SAP CERTIFICATIONS</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="start">Start</string>
+    <string name="clear_highscore">Clear Highscore</string>
+    <string name="notaccess">Internet access is not available!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5927233659272665/6935298035</string>
+</resources>
+
